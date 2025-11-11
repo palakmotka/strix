@@ -110,7 +110,7 @@ We value all contributions! Contributors will be:
 - Listed in release notes
 - Thanked in our Discord
 - Added to contributors list (coming soon)
-
+- We want to thank Palak Patel for start learning Git. Much Kudos!!!!
 ---
 
 **Questions?** Reach out on [Discord](https://discord.gg/YjKFvEZSdZ) or create an issue. We're here to help!
