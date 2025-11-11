@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Palak's BootCamp Project
+Strix
 </h1>
 
 <h2 align="center">Open-source AI Hackers to secure your Apps</h2>
